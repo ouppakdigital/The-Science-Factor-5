@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Mammals</B>]]></heading>
+
+<text><![CDATA[Mammals are warm-blooded animals.]]></text>
+<text><![CDATA[Female mammals can feed their babies milk from their mammary glands.]]></text>
+<text><![CDATA[Mammals have hair or fur on their body.]]></text>
+<text><![CDATA[Placental mammals give birth to their young who are well-developed when they are born.]]></text>
+<text><![CDATA[Marsupials are mammals that give birth to only partly developed young ones.]]></text>
+<text><![CDATA[Monotremes are mammals that lay eggs.]]></text>
+<text><![CDATA[There are only two monotremes, the platypus and the echidna. Both are found in Australia and Papua New Guinea.]]></text>
+<text><![CDATA[The only mammal that can fly is the bat.]]></text>
+
+<lable><![CDATA[<B>Bears have fur.</B>]]></lable>
+<lable><![CDATA[<B>Dogs have hair.</B>]]></lable>
+
+<lable><![CDATA[<B>Mammals</B>]]></lable>
+<lable><![CDATA[<B>Placental</B>]]></lable>
+<lable><![CDATA[<B>Marsupial</B>]]></lable>
+<lable><![CDATA[<B>Monotreme</B>]]></lable>
+
+<lable><![CDATA[<B>kangaroo</B>]]></lable>
+<lable><![CDATA[<B>koala</B>]]></lable>
+<lable><![CDATA[<B>opossum</B>]]></lable>
+<lable><![CDATA[<B>platypus</B>]]></lable>
+<lable><![CDATA[<B>echidna</B>]]></lable>
+
+</data>
+</framexml>  

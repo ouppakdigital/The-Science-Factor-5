@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click on the correct option for each of these statements.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Good job!]]></correct>
+<wrong1><![CDATA[Oops! That's incorrect. Try again.]]></wrong1>
+<wrong2><![CDATA[Oops..... That's incorrect too.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was great!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<question1>
+<text><![CDATA[<B>The pharynx is part of the _______________ system.</B>]]></text>
+<option1><![CDATA[<b>nervous </b>]]></option1>
+<option2><![CDATA[<b>circulatory </b>]]></option2>
+<option3><![CDATA[<b>respiratory </b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>The spinal cord is part of the ___________________ system.</B>]]></text>
+<option1><![CDATA[<b>circulatory </b>]]></option1>
+<option2><![CDATA[<b>central nervous</b>]]></option2>
+<option3><![CDATA[<b>peripheral nervous</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[<B>The alveoli absorb the _______________ from the air and transfer it into our blood.</B>]]></text>
+<option1><![CDATA[<b>oxygen</b>]]></option1>
+<option2><![CDATA[<b>carbon dioxide</b>]]></option2>
+<option3><![CDATA[<b>nutrients</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[<B>The ___________ is also known as the windpipe.</B>]]></text>
+<option1><![CDATA[<b>pharynx</b>]]></option1>
+<option2><![CDATA[<b>larynx</b>]]></option2>
+<option3><![CDATA[<b>trachea</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>The right side of the heart is separated from the left side by a wall called _______________.</B>]]></text>
+<option1><![CDATA[<b>cerebellum</b>]]></option1>
+<option2><![CDATA[<b>septum</b>]]></option2>
+<option3><![CDATA[<b>atrium</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question5>
+
+<question6>
+<text><![CDATA[<B>Impure blood from the right atrium is pushed into the _______________.</B>]]></text>
+<option1><![CDATA[<b>right ventricle</b>]]></option1>
+<option2><![CDATA[<b>left ventricle</b>]]></option2>
+<option3><![CDATA[<b>left atrium</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question6>
+
+<question7>
+<text><![CDATA[<B>_______________ carry oxygen rich blood from the heart to other parts of the body.</B>]]></text>
+<option1><![CDATA[<b>veins</b>]]></option1>
+<option2><![CDATA[<b>arteries</b>]]></option2>
+<option3><![CDATA[<b>capillaries</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question7>
+
+<question8>
+<text><![CDATA[<B>A nerve is a fibre that carries ___________ through the body.</B>]]></text>
+<option1><![CDATA[<b>blood</b>]]></option1>
+<option2><![CDATA[<b>impulses</b>]]></option2>
+<option3><![CDATA[<b>nutrients</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question8>
+
+<question9>
+<text><![CDATA[<B>The occipital lobe is part of the _______________.</B>]]></text>
+<option1><![CDATA[<b>cerebrum</b>]]></option1>
+<option2><![CDATA[<b>cerebellum</b>]]></option2>
+<option3><![CDATA[<b>spinal cord</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question9>
+
+<question10>
+<text><![CDATA[<B>Which of the following is not a part of the central nervous system?</B>]]></text>
+<option1><![CDATA[<b>brain</b>]]></option1>
+<option2><![CDATA[<b>spinal cord</b>]]></option2>
+<option3><![CDATA[<b>nerves</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question10>
+
+</data>
+</framexml>  

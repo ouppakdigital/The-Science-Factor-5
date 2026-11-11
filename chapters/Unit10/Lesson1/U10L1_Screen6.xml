@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click the correct option for these questions and statements.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Oh, no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too. ]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this. ]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+
+</feedback>
+
+<question1>
+<text><![CDATA[1.]]></text>
+<text><![CDATA[Which force operates when two still objects are in contact with each other?]]></text>
+<option1><![CDATA[<b>buoyancy</b>]]></option1>
+<option2><![CDATA[<b>normal</b>]]></option2>
+<option3><![CDATA[<b>friction</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[Which force works on a body while it is in water?]]></text>
+<option1><![CDATA[<b>buoyancy</b>]]></option1>
+<option2><![CDATA[<b>gravity</b>]]></option2>
+<option3><![CDATA[<b>friction</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[Which force slows down or stops objects that are sliding past each other?]]></text>
+<option1><![CDATA[<b>buoyancy</b>]]></option1>
+<option2><![CDATA[<b>friction</b>]]></option2>
+<option3><![CDATA[<b>gravity</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[A body doesn't have any ____________ in space.]]></text>
+<option1><![CDATA[<b>mass</b>]]></option1>
+<option2><![CDATA[<b>weight</b>]]></option2>
+<option3><![CDATA[<b>height</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[The further is an object from Earth, the lower is the force of ___________  acting upon it.]]></text>
+<option1><![CDATA[<b>buoyancy</b>]]></option1>
+<option2><![CDATA[<b>gravity</b>]]></option2>
+<option3><![CDATA[<b>friction</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question5>
+
+
+
+
+
+</data>
+</framexml>  

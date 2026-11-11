@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 8 : Matter and material</B>]]></title>
+<title><![CDATA[<B>How much you know?</B>]]></title>
+
+<text><![CDATA[<b>Click the correct option for each statement.</b>]]></text>
+
+<text><![CDATA[1.]]></text>
+<text><![CDATA[The largest moon of Neptune is Triton.]]></text>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[Miranda and Titania are moons of Jupiter.]]></text>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[The four large moons of Jupiter are called Galilean moons.]]></text>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[The moon takes 27.3 days to orbit the Earth.]]></text>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[A lunar month is measured by the time it takes for the moon to orbit the Earth.]]></text>
+<text><![CDATA[<B>True</B>]]></text>
+<text><![CDATA[<B>False</B>]]></text>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong2><![CDATA[Oh, no! That's not correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

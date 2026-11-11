@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>The nervous system</B>]]></heading>
+
+
+<text><![CDATA[The nervous system is the control centre of the human body.]]></text>
+<text><![CDATA[The brain and the spinal cord form the central nervous system.]]></text>
+<text><![CDATA[The cerebrum is the largest part of the brain.]]></text>
+<text><![CDATA[The cerebellum controls your body movement and balance.]]></text>
+<text><![CDATA[The spinal cord connects the central nervous system to the peripheral nervous system.]]></text>
+
+<text><![CDATA[The nerves throughout the body form the peripheral nervous system.]]></text>
+<text><![CDATA[A nerve is a fibre that carries impulses though the body.]]></text>
+<text><![CDATA[A nerve is made up of billions of nerve cells called <B>neurons</B>.]]></text>
+<text><![CDATA[The nerves that send messages to your brain are called sensory nerves.]]></text>
+<text><![CDATA[The nerves that take messages from the brain to different parts of the body are called motor nerves.]]></text>
+
+            
+
+<subC><![CDATA[<B>central<br>nervous system</B>]]></subC>
+<subC><![CDATA[<B>peripheral nervous system</B>]]></subC>
+
+<lable><![CDATA[<B>cerebrum</B>]]></lable>
+<lable><![CDATA[<B>frontal lobe</B>]]></lable>
+<lable><![CDATA[<B>parietal lobe</B>]]></lable>
+<lable><![CDATA[<B>occipital lobe</B>]]></lable>
+<lable><![CDATA[<B>temporal lobe</B>]]></lable>
+<lable><![CDATA[<B>cerebellum</B>]]></lable>
+<lable><![CDATA[<B>spinal cord</B>]]></lable>
+<lable><![CDATA[<B>neurons</B>]]></lable>
+<lable><![CDATA[<B>sensory nerves</B>]]></lable>
+<lable><![CDATA[<B>motor nerves</B>]]></lable>
+</data>
+</framexml>  

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 9: Matter and changing matter</b>]]></title>
+<title><![CDATA[<b>Matter and particles</b>]]></title>
+
+
+
+ <Labels><![CDATA[<b>Current electricity</b>]]></Labels>
+ <Labels><![CDATA[<b>Generation</b>]]></Labels>
+ <Labels><![CDATA[<b>Distribution</b>]]></Labels>
+ <Labels><![CDATA[<b>Transmission</b>]]></Labels>
+
+<text><![CDATA[Current electricity is produced in one place and is directed to flow along a path.]]></text>
+
+<text><![CDATA[Generation is the process of electricity production in a power plant.]]></text>
+
+<text><![CDATA[A transformer increases the power of electricity so that it can travel long distances.]]></text>
+
+<text><![CDATA[In a sub-station the power of electricity is reduced to a level which can be used at our homes, schools, and factories.]]></text>
+
+<text><![CDATA[During the distribution stage, electricity is transferred from the sub-station to our homes and schools through lines or cables.]]></text>
+
+<Label><![CDATA[<b>power plant</b>]]></Label>
+<Label><![CDATA[<b>transformer</b>]]></Label>
+<Label><![CDATA[<b>transmission process</b>]]></Label>
+<Label><![CDATA[<b>sub-station</b>]]></Label>
+<Label><![CDATA[<b>home</b>]]></Label>
+   
+</data>
+</framexml>  

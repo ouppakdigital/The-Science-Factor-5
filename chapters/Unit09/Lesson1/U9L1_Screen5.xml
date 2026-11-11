@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+
+<text><![CDATA[<b>Answer the question and save the Earth from the aliens. Shoot the spaceship with the correct answer. Use the right and left arrow keys to set the gun. Then press 'Enter'.</b>]]></text>
+
+<!-- Feedback -->
+
+<text><![CDATA[That is correct! Well done!]]></text>
+<text><![CDATA[Oh no! That is not correct. Please try again.]]></text>
+<text><![CDATA[Oops! That's wrong too.]]></text>
+<text><![CDATA[This is the correct answer.]]></text>
+<text><![CDATA[Hmm... You can do better than this.]]></text>
+<text><![CDATA[Good job!]]></text>
+<text><![CDATA[Wow! That was excellent!]]></text>
+<text><![CDATA[Aliens have attacked the Earth! They have sent a spy spaceship. Identify this spaceship and destroy it.]]></text>
+
+
+<!-- Click to next -->
+
+<next><![CDATA[Click 'Next' to have some more fun!]]></next>
+
+
+<rubric><![CDATA[<b>Click the correct option.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Great work!]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this. ]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<question1>
+<text><![CDATA[<B>In which method of heat transfer does a body need to be close to the source in order to be warmed?</B>]]></text>
+<option1><![CDATA[<b>conduction</b>]]></option1>
+<option2><![CDATA[<b>convection</b>]]></option2>
+<option3><![CDATA[<b>radiation</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>Through which method can a whole object be heated by heating only one part of it?</B>]]></text>
+<option1><![CDATA[<b>conduction</b>]]></option1>
+<option2><![CDATA[<b>convection</b>]]></option2>
+<option3><![CDATA[<b>radiation</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[<B>Which of the following objects is a good conductor of heat?</B>]]></text>
+<option1><![CDATA[<b>wood</b>]]></option1>
+<option2><![CDATA[<b>paper</b>]]></option2>
+<option3><![CDATA[<b>metal</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[<B>What is the most common method of heating liquids and gases?</B>]]></text>
+<option1><![CDATA[<b>conduction</b>]]></option1>
+<option2><![CDATA[<b>convection</b>]]></option2>
+<option3><![CDATA[<b>radiation</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>This is a process which sends back light after it hits a surface.</B>]]></text>
+<option1><![CDATA[<b>reflection</b>]]></option1>
+<option2><![CDATA[<b>refraction</b>]]></option2>
+<option3><![CDATA[<b>diffraction</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question5>
+
+
+
+
+<question6>
+<text><![CDATA[<B>This is a process through which light changes direction after it enters one medium from another.</B>]]></text>
+<option1><![CDATA[<b>reflection</b>]]></option1>
+<option2><![CDATA[<b>refraction</b>]]></option2>
+<option3><![CDATA[<b>diffraction</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question6>
+
+
+
+
+<question7>
+<text><![CDATA[<B>_______ makes the image of an object look bent or broken.</B>]]></text>
+<option1><![CDATA[<b>diffusion</b>]]></option1>
+<option2><![CDATA[<b>diffraction</b>]]></option2>
+<option3><![CDATA[<b>refraction</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question7>
+
+
+
+<question8>
+<text><![CDATA[<B>Clouds have a silver lining due to _________.</B>]]></text>
+<option1><![CDATA[<b>diffusion</b>]]></option1>
+<option2><![CDATA[<b>diffraction</b>]]></option2>
+<option3><![CDATA[<b>refraction</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question8>
+
+
+
+<question9>
+<text><![CDATA[<B>A convex mirror has a _________ middle portion.</B>]]></text>
+<option1><![CDATA[<b>bulging</b>]]></option1>
+<option2><![CDATA[<b>sunken</b>]]></option2>
+<option3><![CDATA[<b>rough</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question9>
+
+
+
+<question10>
+<text><![CDATA[<B>The rear view mirrors of cars are _______ mirrors.</B>]]></text>
+<option1><![CDATA[<b>concave</b>]]></option1>
+<option2><![CDATA[<b>plain</b>]]></option2>
+<option3><![CDATA[<b>convex</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question10>
+
+</data>
+</framexml>

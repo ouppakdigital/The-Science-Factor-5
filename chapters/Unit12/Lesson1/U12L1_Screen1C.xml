@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 12: The solar system</b>]]></title>
+<title><![CDATA[<b>The sun and the planets</b>]]></title>
+
+<caption><![CDATA[<b>Venus fact file</b>]]></caption>
+<rubric><![CDATA[length of day]]></rubric>
+<rubric><![CDATA[length of year]]></rubric>
+<rubric><![CDATA[diameter]]></rubric>
+<rubric><![CDATA[surface temperature]]></rubric>
+<rubric><![CDATA[distance from Earth]]></rubric>
+<rubric><![CDATA[distance from Sun]]></rubric>
+
+
+<text><![CDATA[Venus is the hottest planet in the solar system. Venus is surrounded by a very thick atmosphere.]]></text>
+<text><![CDATA[Venus is the only planet in the solar system that spins from east to west on its axis.]]></text>
+<text><![CDATA[Venus is the only planet that takes longer to rotate on its axis than to orbit around the Sun.]]></text>
+<text><![CDATA[This means a day on Venus is longer than a year.]]></text>
+<text><![CDATA[<B>Length of day:</B> 243 Earth days]]></text>
+<text><![CDATA[<B>Length of year:</B> 225 Earth days]]></text>
+<text><![CDATA[<B>Diameter:</B>12,104 km]]></text>
+<text><![CDATA[<B>Surface temperature:</B> 460&#176;C]]></text>
+<text><![CDATA[<B>Distance from Earth:</B> 41,000,000 km]]></text>
+<text><![CDATA[<B>Distance from Sun:</B> 108,000,000 km]]></text>
+
+
+
+
+
+</data>
+</framexml>  

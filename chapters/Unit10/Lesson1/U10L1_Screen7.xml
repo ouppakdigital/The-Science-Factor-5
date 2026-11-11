@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 10: Force</b>]]></title>
+<title><![CDATA[<b>Types of force</b>]]></title>
+
+<text><![CDATA[<B>Click the right option to name the force.</B>]]></text>
+
+<text><![CDATA[<B>gravity</B>]]></text>
+<text><![CDATA[<B>air resistance</B>]]></text>
+<text><![CDATA[<B>buoyancy</B>]]></text>
+
+
+<text><![CDATA[<B>gravity</B>]]></text>
+<text><![CDATA[<B>air resistance</B>]]></text>
+<text><![CDATA[<B>friction</B>]]></text>
+
+
+<text><![CDATA[<B>gravity</B>]]></text>
+<text><![CDATA[<B>normal</B>]]></text>
+<text><![CDATA[<B>friction</B>]]></text>
+
+
+<text><![CDATA[<B>gravity</B>]]></text>
+<text><![CDATA[<B>normal</B>]]></text>
+<text><![CDATA[<B>friction</B>]]></text>
+
+
+
+<text><![CDATA[<B>gravity</B>]]></text>
+<text><![CDATA[<B>friction</B>]]></text>
+<text><![CDATA[<B>buoyancy</B>]]></text>
+
+
+
+<feedback>
+<correct><![CDATA[That's correct! Good job!]]></correct>
+<wrong1><![CDATA[Oh, no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops… that's incorrect again.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[You can surely do better than this!]]></rank1>
+<rank2><![CDATA[Good work!]]></rank2>
+<rank3><![CDATA[Wow! The perfect score! Congratulations!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+
+</data>
+</framexml>  

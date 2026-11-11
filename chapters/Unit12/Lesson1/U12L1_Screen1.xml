@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 12: The solar system</b>]]></title>
+<title><![CDATA[<b>The sun and the planets</b>]]></title>
+
+<rubric><![CDATA[<b>Mercury</b>]]></rubric>
+<rubric><![CDATA[<b>Venus</b>]]></rubric>
+<rubric><![CDATA[<b>Earth</b>]]></rubric>
+<rubric><![CDATA[<b>Mars</b>]]></rubric>
+<rubric><![CDATA[<b>Jupiter</b>]]></rubric>
+<rubric><![CDATA[<b>Saturn</b>]]></rubric>
+<rubric><![CDATA[<b>Uranus </b>]]></rubric>
+<rubric><![CDATA[<b>Neptune</b>]]></rubric>
+<rubric><![CDATA[<b>Sun</b>]]></rubric>
+<rubric><![CDATA[<b>Pluto</b>]]></rubric>
+
+
+
+
+<text><![CDATA[All the planets that revolve around the Sun along with their moons, form the solar system.]]></text>
+<text><![CDATA[Planets and moons don't have light of their own.]]></text>
+<text><![CDATA[Mercury, Venus, Earth, and Mars are known as terrestrial planets as they are solid.]]></text>
+<text><![CDATA[Jupiter, Saturn, Uranus, and Neptune are called gas planets as they are made up of gases.]]></text>
+<text><![CDATA[There is an asteroid belt between Mars and Jupiter.]]></text>
+<text><![CDATA[Pluto was considered to be the ninth planet of the solar system. Now it is referred to as a dwarf planet.]]></text>
+
+
+
+</data>
+</framexml>  

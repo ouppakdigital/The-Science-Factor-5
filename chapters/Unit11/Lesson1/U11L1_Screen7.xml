@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+
+<rubric><![CDATA[<b>Click the correct option.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<question1>
+<text><![CDATA[<B>It increases the power of electricity so that it can travel long distances.</B>]]></text>
+<option1><![CDATA[<b>transformer</b>]]></option1>
+<option2><![CDATA[<b>generator</b>]]></option2>
+<option3><![CDATA[<b>insulator</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>It is a discharge of electricity in the sky.</B>]]></text>
+<option1><![CDATA[<b>rain</b>]]></option1>
+<option2><![CDATA[<b>lightning</b>]]></option2>
+<option3><![CDATA[<b>storm</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[<B>It is the attraction between two objects.</B>]]></text>
+<option1><![CDATA[<b>electricity</b>]]></option1>
+<option2><![CDATA[<b>power</b>]]></option2>
+<option3><![CDATA[<b>magnetism</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[<B>This action between two different materials produces static electricity.</B>]]></text>
+<option1><![CDATA[<b>rubbing</b>]]></option1>
+<option2><![CDATA[<b>burning</b>]]></option2>
+<option3><![CDATA[<b>melting</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>It is the process used to make an object magnetic by passing electric current through it.</B>]]></text>
+<option1><![CDATA[<b>electromagnetism</b>]]></option1>
+<option2><![CDATA[<b>magnetism</b>]]></option2>
+<option3><![CDATA[<b>electricity</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question5>
+
+
+
+</data>
+</framexml>  

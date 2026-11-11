@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 9: Electricity and Magnetism</b>]]></title>
+<title><![CDATA[<b>Magnetism</b>]]></title>
+
+<rubric><![CDATA[<B>Click the correct option to say whether each statement is true or false.</B>]]></rubric>
+
+
+
+<question1>
+<text><![CDATA[<B>Fruit-bearing trees are angiosperms.</B>]]></text>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>Pine trees are spore-bearing plants.</B>]]></text>
+</question2>
+
+<question3>
+<text><![CDATA[<B>Spruces are trees that bear cones.</B>]]></text>
+</question3>
+
+<question4>
+<text><![CDATA[<B>Spores are smaller than seeds.</B>]]></text>
+</question4>
+
+<question5>
+<text><![CDATA[<B>Gymnosperms are flower-bearing plants.</B>]]></text>
+</question5>
+
+<question6>
+<text><![CDATA[<B>The flowers of angiosperms contain their seeds.</B>]]></text>
+</question6>
+
+<question7>
+<text><![CDATA[<B>Spore-bearing plants produce thousands of spores.</B>]]></text>
+</question7>
+
+<question8>
+<text><![CDATA[<B>Firs are plants which produce spores on the underside of their leaves.</B>]]></text>
+</question8>
+
+<question9>
+<text><![CDATA[<B>Conifers are evergreen trees with needle-shaped leaves.</B>]]></text>
+</question9>
+
+<question10>
+<text><![CDATA[<B>Palm trees are gymnosperms.</B>]]></text>
+</question10>
+
+<option><![CDATA[<b>True</b>]]></option>
+<option><![CDATA[<b>False</b>]]></option>
+
+
+<feedback>
+<correct><![CDATA[That's right! Well done!]]></correct>
+<wrong2><![CDATA[Oh no! That's not correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[I'm sure you can do better than this. ]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Excellent score! Congratulations!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 12: The solar system</b>]]></title>
+<title><![CDATA[<b>The sun and the planets</b>]]></title>
+
+<caption><![CDATA[<b>Earth fact file</b>]]></caption>
+<rubric><![CDATA[length of day]]></rubric>
+<rubric><![CDATA[length of year]]></rubric>
+<rubric><![CDATA[diameter]]></rubric>
+<rubric><![CDATA[surface temperature]]></rubric>
+<rubric><![CDATA[distance from Sun]]></rubric>
+
+
+<text><![CDATA[The Earth is the third planet from the Sun.]]></text>
+<text><![CDATA[About 70% of Earth is covered by water.]]></text>
+<text><![CDATA[<B>Length of day:</B> 24 hours]]></text>
+<text><![CDATA[<B>Length of year:</B> 365.25 days]]></text>
+<text><![CDATA[<B>Diameter:</B> 12,756 km]]></text>
+<text><![CDATA[<B>Surface temperature:</B> -86&#176;C to 57&#176;C]]></text>
+<text><![CDATA[<B>Distance from Sun:</B> 150,000,000 km]]></text>
+
+
+
+</data>
+</framexml>  

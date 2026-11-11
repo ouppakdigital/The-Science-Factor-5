@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 12: The solar system</b>]]></title>
+<title><![CDATA[<b>The sun and the planets</b>]]></title>
+
+<cap><![CDATA[<b>Mercury fact file</b>]]></cap>
+<rubric><![CDATA[length of day]]></rubric>
+<rubric><![CDATA[length of year]]></rubric>
+<rubric><![CDATA[diameter]]></rubric>
+<rubric><![CDATA[surface temperature]]></rubric>
+<rubric><![CDATA[distance from Earth]]></rubric>
+<rubric><![CDATA[distance from Sun]]></rubric>
+
+
+
+<text><![CDATA[Mercury is the closest planet to the Sun and also the smallest planet in the solar system.]]></text>
+<text><![CDATA[Mercury does not have an atmosphere around it.]]></text>
+<text><![CDATA[<B>Length of day: </B>59 Earth days]]></text>
+<text><![CDATA[<B>Length of year:</B> 88 Earth days]]></text>
+<text><![CDATA[<B>Diameter:</B>  4878 km]]></text>
+<text><![CDATA[<B>Surface temperature:</B>     -170&#176;C to 430&#176;C]]></text>
+<text><![CDATA[<B>Distance from Earth:</B> 177,000,000 km]]></text>
+<text><![CDATA[<B>Distance from Sun:</B> 58,000,000 km]]></text>
+
+
+
+
+
+</data>
+</framexml>  

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 3: The plant world</b>]]></title>
+<title><![CDATA[<b>Seeds and germination</b>]]></title>
+
+<heading><![CDATA[<b>Germination</b>]]></heading>
+
+ <Labels><![CDATA[<b>germination</b>]]></Labels>
+ <Labels><![CDATA[<b>water</b>]]></Labels>
+ <Labels><![CDATA[<b>oxygen</b>]]></Labels>
+ <Labels><![CDATA[<b>light</b>]]></Labels>
+ <Labels><![CDATA[<b>heat</b>]]></Labels>
+
+ <text><![CDATA[The process by which seeds start to grow is called germination.]]></text>
+ <text><![CDATA[The seed absorbs water from the ground. On entering the seed, water dissolves the food that is stored inside.]]></text>
+ <text><![CDATA[The dissolved food releases energy which in turn causes the embryo to grow inside the seed.]]></text>
+ <text><![CDATA[The embryo breaks the seed coat when it gets bigger.]]></text>
+ <text><![CDATA[The root is the first part of the plant that comes out of a seed.]]></text>
+ <text><![CDATA[The cotyledon contains a shoot which starts growing upwards towards the surface of the ground.]]></text>
+ <text><![CDATA[The leaves of the cotyledon turn green after they receive heat and light from the Sun.]]></text>
+ <text><![CDATA[The plant starts producing its own food and in turn, grows more leaves.]]></text>
+ <text><![CDATA[When the plant is mature, it starts to produce seeds of its own.]]></text>
+ 
+</data>
+</framexml>  

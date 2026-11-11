@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 10: Force and machines</b>]]></title>
+<title><![CDATA[<b>Force</b>]]></title>
+
+<heading><![CDATA[<b>Balanced and unbalanced forces</b>]]></heading>
+
+ <Labels><![CDATA[<b>Lighted candle</b>]]></Labels>
+
+<text><![CDATA[Buoyancy is an upward pressure exerted by water which keeps things afloat.]]></text>
+<text><![CDATA[Gravity is the force that pulls everything to the centre of the Earth.]]></text>
+<text><![CDATA[Friction is the force that slows down or stops moving objects.]]></text>
+<text><![CDATA[Air resistance is a type of friction which slows down things moving through air.]]></text>
+<text><![CDATA[Normal force is the force that operates when two still objects are in contact with each other.]]></text>
+
+<text><![CDATA[<B>Buoyancy</B>]]></text>
+<text><![CDATA[<B>Gravity</B>]]></text>
+<text><![CDATA[<B>Friction</B>]]></text>
+<text><![CDATA[<B>Air resistance</B>]]></text>
+<text><![CDATA[<B>Normal force</B>]]></text>
+
+<btn><![CDATA[<B>Forces</B>]]></btn>
+<btn><![CDATA[<B>Buoyancy</B>]]></btn>
+<btn><![CDATA[<B>Gravity</B>]]></btn>
+<btn><![CDATA[<B>Friction</B>]]></btn>
+<btn><![CDATA[<B>Air resistance</B>]]></btn>
+<btn><![CDATA[<B>Normal</B>]]></btn>
+   
+</data>
+</framexml>  

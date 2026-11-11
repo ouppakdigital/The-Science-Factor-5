@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 8: Matter and changing matter</b>]]></title>
+<title><![CDATA[<b>Matter and particles</b>]]></title>
+
+<heading><![CDATA[<b>Matter and particles</b>]]></heading>
+
+ <Labels><![CDATA[<b>atom</b>]]></Labels>
+ <Labels><![CDATA[<b>protons</b>]]></Labels>
+ <Labels><![CDATA[<b>nucleus</b>]]></Labels>
+ <Labels><![CDATA[<b>electron</b>]]></Labels>
+ <Labels><![CDATA[<b>neutrons</b>]]></Labels>
+ <Labels><![CDATA[<b>molecule</b>]]></Labels>
+ <Labels><![CDATA[<b>A water molecule</b>]]></Labels>
+ <Labels><![CDATA[hydrogen]]></Labels>
+ <Labels><![CDATA[oxygen]]></Labels>
+ <Labels><![CDATA[<b>neutrons </b>]]></Labels>
+ <Labels><![CDATA[<b>neutrons </b>]]></Labels>
+ <Labels><![CDATA[<b>neutrons </b>]]></Labels>
+ <Labels><![CDATA[<b>atom</b>]]></Labels>
+  
+<btn><![CDATA[<b>matter</b>]]></btn>
+<btn><![CDATA[<b>solid</b>]]></btn>
+<btn><![CDATA[<b>liquid</b>]]></btn>
+<btn><![CDATA[<b>gas</b>]]></btn>
+
+<text><![CDATA[Everything that exists is matter.]]></text>
+<text><![CDATA[All matter is made of tiny particles called atom.]]></text>
+<text><![CDATA[The central of the atom is called nucleus.]]></text>
+<text><![CDATA[The nucleus contains protons and neutrons.]]></text>
+<text><![CDATA[The electrons are particles that orbit the nucleus.]]></text>
+<text><![CDATA[When two or more atoms join together, they form a molecule.]]></text>
+<text><![CDATA[The molecules in a solid are packed tightly and can't move.]]></text>
+<text><![CDATA[The molecules in a liquid have enough space to move around.]]></text>
+<text><![CDATA[The molecules in a gas are very loosely packed.]]></text>
+
+</data>
+</framexml>  

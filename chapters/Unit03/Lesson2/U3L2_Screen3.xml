@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 3: The plant world</b>]]></title>
+<title><![CDATA[<b>Seeds and germination</b>]]></title>
+
+<heading><![CDATA[<b>Seed dispersal</b>]]></heading>
+
+<Labels><![CDATA[<b>seeds with hooks</b>]]></Labels>
+<Labels><![CDATA[<b>sea holly</b>]]></Labels>
+<Labels><![CDATA[<b>burdock</b>]]></Labels>
+<Labels><![CDATA[<b>entelia</b>]]></Labels>
+<Labels><![CDATA[<b>papaya seeds</b>]]></Labels>
+ <Labels><![CDATA[<b>dandelion seeds</b>]]></Labels>
+ <Labels><![CDATA[<b>maple tree seeds</b>]]></Labels>
+<Labels><![CDATA[<b>sunflower seeds</b>]]></Labels>
+<Labels><![CDATA[<b>lupin seeds</b>]]></Labels>
+<Labels><![CDATA[<b>coconut seeds</b>]]></Labels>
+  
+ <Labels><![CDATA[<b>seeds with hooks</b>]]></Labels>
+<Labels><![CDATA[<b>seeds inside fruit</b>]]></Labels>
+<Labels><![CDATA[<b>feather-like seeds</b>]]></Labels>
+<Labels><![CDATA[<b>seeds with wings</b>]]></Labels>
+<Labels><![CDATA[<b>heavy seeds</b>]]></Labels>
+<Labels><![CDATA[<b>seeds in a pod</b>]]></Labels>
+<Labels><![CDATA[<b>seeds that float</b>]]></Labels>
+
+<text><![CDATA[The process by which plants scatter their seeds is called seed dispersal.]]></text>
+<text><![CDATA[Some seeds have hooks or pointed spikes on them.]]></text>
+<text><![CDATA[Some plants produce their seeds inside fruits.]]></text>
+<text><![CDATA[Some plants produce seeds which are very light in weight.]]></text>
+<text><![CDATA[Some seeds are not only light but also have wings.]]></text>
+<text><![CDATA[Some plants produce very heavy seeds which fall to the ground around the plant and start to germinate.]]></text>
+<text><![CDATA[Some plants grow their seeds inside pods.]]></text>
+<text><![CDATA[Some plants growing near water bodies drop their seeds in the water.]]></text>
+
+</data>
+</framexml>  

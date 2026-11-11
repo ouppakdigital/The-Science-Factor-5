@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 12: The solar system</b>]]></title>
+<title><![CDATA[<b>The sun and the planets</b>]]></title>
+
+<caption><![CDATA[<b>Deimos</b>]]></caption>
+<caption><![CDATA[<b>Phobos</b>]]></caption>
+
+
+<text><![CDATA[Mars has two moons.]]></text>
+<text><![CDATA[Phobos: 22.2 km]]></text>
+<text><![CDATA[Deimos: 12.6 km]]></text>
+
+
+</data>
+</framexml>  

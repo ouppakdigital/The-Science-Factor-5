@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click on the correct option to complete each statement.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!!]]></correct>
+<wrong1><![CDATA[Oops! That's incorrect. Try again.]]></wrong1>
+<wrong2><![CDATA[Oh, no! That's incorrect again.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[I'm sure you can do better than this.]]></rank1>
+<rank2><![CDATA[Not bad!]]></rank2>
+<rank3><![CDATA[Excellent score!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+
+</feedback>
+
+<question1>
+<text><![CDATA[1.]]></text>
+<text><![CDATA[The _________________ connects the mouth to the stomach.]]></text>
+<option1><![CDATA[<b>kidneys</b>]]></option1>
+<option2><![CDATA[<b>oesophagus</b>]]></option2>
+<option3><![CDATA[<b>small intestine</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[The _________________ is the longest part of the digestive tract.]]></text>
+<option1><![CDATA[<b>small intestine</b>]]></option1>
+<option2><![CDATA[<b>large intestine</b>]]></option2>
+<option3><![CDATA[<b>oesophagus</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[The _________________ help in removing the toxins in the blood from the body.]]></text>
+<option1><![CDATA[<b>oesophagus</b>]]></option1>
+<option2><![CDATA[<b>kidneys</b>]]></option2>
+<option3><![CDATA[<b>rectum</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[The _________________ connect the kidneys to the bladder.]]></text>
+<option1><![CDATA[<b>ureters</b>]]></option1>
+<option2><![CDATA[<b>urethra</b>]]></option2>
+<option3><![CDATA[<b>large intestine</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[The job of the _________________ is to store urine until one goes to the toilet.]]></text>
+<option1><![CDATA[<b>kidneys</b>]]></option1>
+<option2><![CDATA[<b>urethra</b>]]></option2>
+<option3><![CDATA[<b>bladder</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question5>
+
+
+</data>
+</framexml>  

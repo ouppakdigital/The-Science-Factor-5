@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>The circulatory system</B>]]></heading>
+<heading><![CDATA[<B>The heart</B>]]></heading>
+
+<text><![CDATA[The circulatory system is a combination of the heart, blood, and blood vessels. It transports blood, oxygen, and nutrients throughout the body and carries away waste products.]]></text>
+<text><![CDATA[The arteries carry blood away from the heart to other organs and tissues in the body.]]></text>
+<text><![CDATA[The veins carry blood without oxygen from other parts of the body to the heart.]]></text>
+<text><![CDATA[The capillaries are very small blood vessels that link veins to arteries.]]></text>
+
+<text><![CDATA[The two upper chambers of the heart are known as atriums.]]></text>
+<text><![CDATA[The two lower chambers of the heart are known as ventricles.]]></text>
+<text><![CDATA[The right side and the left side of the heart are separated by a wall called septum.]]></text>
+<text><![CDATA[The blood from different parts of the body enters the right atrium and is then pushed into the right ventricle.]]></text>
+<text><![CDATA[Blood from the right ventricle enters the lungs where it receives oxygen.]]></text>
+<text><![CDATA[Oxygen-rich blood enters the left atrium and then the left ventricle.]]></text>
+<text><![CDATA[The oxygen-rich blood travels around the body through arteries to provide cells with oxygen and other nutrients.]]></text>
+
+
+<lable><![CDATA[<B>artery</B>]]></lable>
+<lable><![CDATA[<B>heart</B>]]></lable>
+<lable><![CDATA[<B>vein</B>]]></lable>
+<lable><![CDATA[<B>capillaries</B>]]></lable>
+
+<lable><![CDATA[<B>left atrium</B>]]></lable>
+<lable><![CDATA[<B>right atrium</B>]]></lable>
+<lable><![CDATA[<B>left ventricle</B>]]></lable>
+<lable><![CDATA[<B>right ventricle</B>]]></lable>
+<lable><![CDATA[<B>septum</B>]]></lable>
+
+</data>
+</framexml>  

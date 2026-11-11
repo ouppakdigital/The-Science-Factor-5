@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Fish</B>]]></heading>
+
+<text><![CDATA[Fish are cold-blooded water animals.]]></text>
+<text><![CDATA[Most fish have scales on their bodies and lay eggs.]]></text>
+<text><![CDATA[Most fish have fins to help them move around in water.]]></text>
+<text><![CDATA[Fish have gills instead of lungs which help them to breathe underwater.]]></text>
+
+<lable><![CDATA[<B>shark</B>]]></lable>
+<lable><![CDATA[<B>tuna</B>]]></lable>
+<lable><![CDATA[<B>salmon</B>]]></lable>
+
+</data>
+</framexml>  

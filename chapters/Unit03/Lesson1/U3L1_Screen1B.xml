@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 3: The plant world</b>]]></title>
+<title><![CDATA[<b>Classification of plants and plant cell</b>]]></title>
+
+<heading><![CDATA[<b>Gymnosperms</b>]]></heading>
+
+ <Labels><![CDATA[<b>conifer tree</b>]]></Labels>
+ <Labels><![CDATA[<b>needle-shaped leaves</b>]]></Labels>
+ <Labels><![CDATA[<b>pine</b>]]></Labels>
+ <Labels><![CDATA[<b>fir</b>]]></Labels>
+ <Labels><![CDATA[<b>spruce</b>]]></Labels>
+ <Labels><![CDATA[<b>lighted candle</b>]]></Labels>
+ <Labels><![CDATA[<b>lighted candle</b>]]></Labels>
+
+<text><![CDATA[Gymnosperms are seed-bearing plants which do not produce flowers.]]></text>
+<text><![CDATA[Conifers are evergreen trees with needle-shaped leaves.]]></text>
+<text><![CDATA[Conifer trees produce cones which carry their seeds.]]></text>
+<text><![CDATA[The cones of conifer trees are covered with scales.]]></text>
+   
+</data>
+</framexml>  

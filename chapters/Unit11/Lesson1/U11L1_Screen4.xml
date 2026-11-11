@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 11: Heat, light and sound</b>]]></title>
+<title><![CDATA[<b>Heat and light</b>]]></title>
+
+
+
+<text><![CDATA[Materials that allow electricity to flow through them easily are called conductors.]]></text>
+<text><![CDATA[Copper wires are good conductors of electricity.]]></text>
+
+<text><![CDATA[Materials that do not allow electricity to pass through them easily are called insulators.]]></text>
+
+<Labels><![CDATA[<b>Insulators</b>]]></Labels>
+
+<Labels><![CDATA[<b>plastic</b>]]></Labels>
+<Labels><![CDATA[<b>copper</b>]]></Labels>
+
+</data>
+</framexml>  

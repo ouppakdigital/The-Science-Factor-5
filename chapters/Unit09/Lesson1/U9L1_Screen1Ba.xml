@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 9: Matter and changing matter</b>]]></title>
+<title><![CDATA[<b>Matter and particles</b>]]></title>
+
+
+<heading><![CDATA[<b>Reflection</b>]]></heading>
+
+<text><![CDATA[When light bounces off an object, it is called reflection.]]></text>
+
+<text><![CDATA[When light bounces off a smooth or polished surface, a clear image is formed. This type of reflection is called regular reflection.]]></text>
+<text><![CDATA[<b>Regular reflection</b>]]></text>
+
+<text><![CDATA[When light hits a rough or a moving surface, a blurred image is formed. This type of reflection is called diffused reflection.]]></text>
+
+<text><![CDATA[<b>Diffused reflection</b>]]></text>
+
+ <Labels><![CDATA[<b>Reflection</b>]]></Labels>
+ <Labels><![CDATA[<b>Regular reflection</b>]]></Labels>
+ <Labels><![CDATA[<b>Diffused reflection</b>]]></Labels>
+
+   
+</data>
+</framexml>  

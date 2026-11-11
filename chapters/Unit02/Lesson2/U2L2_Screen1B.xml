@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Molluscs</B>]]></heading>
+
+<text><![CDATA[Molluscs are soft-bodied invertebrates. Many molluscs have a shell to cover their bodies.]]></text>
+<text><![CDATA[The major species of molluscs are water-dwelling creatures. ]]></text>
+<text><![CDATA[Some molluscs live on land.]]></text>
+
+<lable><![CDATA[<B>octopus</B>]]></lable>
+<lable><![CDATA[<B>snail</B>]]></lable>
+<lable><![CDATA[<B>oyster</B>]]></lable>
+<lable><![CDATA[<B>clam</B>]]></lable>
+
+</data>
+</framexml>  

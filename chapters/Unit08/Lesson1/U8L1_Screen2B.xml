@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 8: Matter and changing matter</b>]]></title>
+<title><![CDATA[<b>Matter and particles</b>]]></title>
+
+<heading><![CDATA[<b>Freezing</b>]]></heading>
+
+ <Labels><![CDATA[<b>lighted candle</b>]]></Labels>
+
+<text><![CDATA[Freezing a liquid changes its state to solid.]]></text>
+<text><![CDATA[When a substance freezes, its molecules start to lose energy and move closer to each other.]]></text>
+<text><![CDATA[The freezing point of a substance is the same as its melting point in the solid state.]]></text>
+<text><![CDATA[Water in its liquid state will turn to ice if the temperature becomes less than 0˚C.]]></text>
+<text><![CDATA[Ice will turn to water if the temperature is increased above 0˚C.]]></text>
+<text><![CDATA[All liquids have a different freezing point that can be measured by temperature.]]></text>
+   
+</data>
+</framexml>  

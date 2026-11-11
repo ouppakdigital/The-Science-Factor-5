@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Birds</B>]]></heading>
+<heading><![CDATA[<B>Flightless birds</B>]]></heading>
+
+<text><![CDATA[Birds are warm-blooded animals.]]></text>
+<text><![CDATA[Birds breathe through their lungs.]]></text>
+<text><![CDATA[Birds have feathers and wings that help them fly.]]></text>
+<text><![CDATA[Birds have scales on their legs.]]></text>
+<text><![CDATA[Birds have beaks but no teeth.]]></text>
+<text><![CDATA[Birds have a bone inside their body called furcula. This bone is also known as wishbone.]]></text>
+<text><![CDATA[The wishbone protects the bird's chest from the force of the wings when it flies.]]></text>
+<text><![CDATA[The hummingbird is the smallest bird in the world.]]></text>
+
+<lable><![CDATA[<B>sparrow</B>]]></lable>
+<lable><![CDATA[<B>swallow</B>]]></lable>
+<lable><![CDATA[<B>hummingbird</B>]]></lable>
+<lable><![CDATA[<B>robin</B>]]></lable>
+<lable><![CDATA[<B>finch</B>]]></lable>
+
+<lable><![CDATA[<B>ostrich</B>]]></lable>
+<lable><![CDATA[<B>kiwi</B>]]></lable>
+<lable><![CDATA[<B>penguin</B>]]></lable>
+<lable><![CDATA[<B>emu</B>]]></lable>
+<lable><![CDATA[<B>hummingbird</B>]]></lable>
+
+</data>
+</framexml>  

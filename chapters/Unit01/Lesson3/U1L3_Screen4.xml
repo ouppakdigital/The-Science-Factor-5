@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 1: The human body</b>]]></titel>
+<titel><![CDATA[<b>Activity</b>]]></titel>
+
+<rubric><![CDATA[<b>This diagram needs to be labelled. Drag each label to the right box.</b>]]></rubric>
+
+<text><![CDATA[The]]></text>
+
+<lable><![CDATA[<B>oesophagus</B>]]></lable>
+<lable><![CDATA[<B>liver</B>]]></lable>
+<lable><![CDATA[<B>stomach</B>]]></lable>
+<lable><![CDATA[<B>rectum</B>]]></lable>
+<lable><![CDATA[<B>anus</B>]]></lable>
+<lable><![CDATA[<B>large intestine</B>]]></lable>
+<lable><![CDATA[<B>small intestine</B>]]></lable>
+
+<lable1><![CDATA[<B>kidney</B>]]></lable1>
+<lable1><![CDATA[<B>ureter</B>]]></lable1>
+<lable1><![CDATA[<B>bladder</B>]]></lable1>
+<lable1><![CDATA[<B>urethra</B>]]></lable1>
+
+<feedback>
+<correct><![CDATA[That's correct! Good work!]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Outstanding!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+</data>
+</framexml>  

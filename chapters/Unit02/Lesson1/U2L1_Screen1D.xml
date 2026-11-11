@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Reptiles</B>]]></heading>
+
+<text><![CDATA[Reptiles are cold-blooded animals. Most reptiles lay eggs and their skin is covered with hard, dry scales. ]]></text>
+<text><![CDATA[Reptiles breathe through their lungs.]]></text>
+<text><![CDATA[Except snakes, all reptiles have external ear openings.]]></text>
+<text><![CDATA[Dinosaurs were also reptiles.]]></text>
+
+<lable><![CDATA[<B>crocodile</B>]]></lable>
+<lable><![CDATA[<B>alligator</B>]]></lable>
+<lable><![CDATA[<B>lizard</B>]]></lable>
+<lable><![CDATA[<B>snake</B>]]></lable>
+<lable><![CDATA[<B>tortoise</B>]]></lable>
+<lable><![CDATA[<B>turtle</B>]]></lable>
+
+</data>
+</framexml>  

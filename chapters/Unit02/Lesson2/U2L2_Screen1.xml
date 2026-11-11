@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Invertebrates</B>]]></heading>
+
+<text><![CDATA[Scientists have divided animals into two broad groups, vertebrates and invertebrates.]]></text>
+<text><![CDATA[Animals that don't have a backbone or spinal column are called invertebrates.]]></text>
+<text><![CDATA[Invertebrate animals either have a hard exterior shell covering or no hard covering or skeleton at all.]]></text>
+
+<lable><![CDATA[<B>Animal kingdom</B>]]></lable>
+<lable><![CDATA[<B>vertebrates</B>]]></lable>
+<lable><![CDATA[<B>invertebrates</B>]]></lable>
+<lable><![CDATA[<B>birds</B>]]></lable>
+<lable><![CDATA[<B>fish</B>]]></lable>
+<lable><![CDATA[<B>amphibians</B>]]></lable>
+<lable><![CDATA[<B>reptiles</B>]]></lable>
+<lable><![CDATA[<B>mammals</B>]]></lable>
+
+<lable><![CDATA[<B>arthropods</B>]]></lable>
+<lable><![CDATA[<B>worms</B>]]></lable>
+<lable><![CDATA[<B>molluscs</B>]]></lable>
+<lable><![CDATA[<B>sponges</B>]]></lable>
+<lable><![CDATA[<B>cnidarians</B>]]></lable>
+<lable><![CDATA[<B>echinoderms</B>]]></lable>
+
+
+<caption><![CDATA[<B>monkey<br>(vertebrate)</B>]]></caption>
+<caption><![CDATA[<B>ant<br>(invertebrate)</B>]]></caption>
+<caption><![CDATA[<B>beetle<br>(hard covering)</B>]]></caption>
+<caption><![CDATA[<B>mosquito<br>(no hard covering)</B>]]></caption>
+
+
+</data>
+</framexml>  

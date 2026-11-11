@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Amphibians</B>]]></heading>
+
+<text><![CDATA[Amphibians are cold-blooded vertebrates that begin their life in water and can live both on land and water.]]></text>
+<text><![CDATA[Amphibians have thin skins over their body.]]></text>
+<text><![CDATA[Amphibians don't have scales or claws.]]></text>
+<text><![CDATA[The adult females of amphibians return to the water to lay eggs.]]></text>
+<text><![CDATA[Most amphibians live by feeding on insects.]]></text>
+
+<lable><![CDATA[<B>frog</B>]]></lable>
+
+<lable><![CDATA[<B>frog</B>]]></lable>
+<lable><![CDATA[<B>toad</B>]]></lable>
+<lable><![CDATA[<B>salamander</B>]]></lable>
+<lable><![CDATA[<B>newt</B>]]></lable>
+
+</data>
+</framexml>  

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 12: The solar system</b>]]></title>
+<title><![CDATA[<b>The sun and the planets</b>]]></title>
+
+<caption><![CDATA[<b>Saturn fact file</b>]]></caption>
+<rubric><![CDATA[length of day]]></rubric>
+<rubric><![CDATA[length of year]]></rubric>
+<rubric><![CDATA[diameter]]></rubric>
+<rubric><![CDATA[surface temperature]]></rubric>
+<rubric><![CDATA[distance from Earth]]></rubric>
+<rubric><![CDATA[distance from Sun]]></rubric>
+
+
+<text><![CDATA[Saturn is the sixth planet from the Sun. It is the second largest planet in the solar system.]]></text>
+<text><![CDATA[The rings around Saturn are made of ice and rocks.]]></text>
+<text><![CDATA[<B>Length of day:</B><br>10 hours, 39 minutes]]></text>
+<text><![CDATA[<B>Length of year:</B> 29.5 Earth years]]></text>
+<text><![CDATA[<B>Diameter:</B> 120,536 km]]></text>
+<text><![CDATA[<B>Surface temperature:</B> -180&#176;C]]></text>
+<text><![CDATA[<B>Distance from Earth:</B> 1.2 billion km]]></text>
+<text><![CDATA[<B>Distance from Sun:</B> 1.4 billion km]]></text>
+
+
+
+</data>
+</framexml>  

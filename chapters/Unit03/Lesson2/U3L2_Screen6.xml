@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click the correct answer for each question.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oh no! That's not correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this. ]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<question1>
+<text><![CDATA[<B>What is the tissue surrounding the embryo called?</B>]]></text>
+<option1><![CDATA[<b>seed coat</b>]]></option1>
+<option2><![CDATA[<b>endosperm</b>]]></option2>
+<option3><![CDATA[<b>cotyledon</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>What is the seed leaf that emerges from the seed after germination called?</B>]]></text>
+<option1><![CDATA[<b>endosperm</b>]]></option1>
+<option2><![CDATA[<b>embryo</b>]]></option2>
+<option3><![CDATA[<b>cotyledon</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[<B>What part of the plant emerges from the seed first?</B>]]></text>
+<option1><![CDATA[<b>shoot</b>]]></option1>
+<option2><![CDATA[<b>root</b>]]></option2>
+<option3><![CDATA[<b>leaf</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[<B>Which plant has very lightweight seeds?</B>]]></text>
+<option1><![CDATA[<b>maple</b>]]></option1>
+<option2><![CDATA[<b>papaya</b>]]></option2>
+<option3><![CDATA[<b>dandelion</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>Which plant has wing-shaped seeds?</B>]]></text>
+<option1><![CDATA[<b>sunflower</b>]]></option1>
+<option2><![CDATA[<b>maple</b>]]></option2>
+<option3><![CDATA[<b>dandelion</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question5>
+
+
+
+
+
+</data>
+</framexml>  

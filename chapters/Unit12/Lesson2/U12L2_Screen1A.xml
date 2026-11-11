@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 12: The solar system</b>]]></title>
+<title><![CDATA[<b>The moons</b>]]></title>
+
+<caption><![CDATA[<b>The Earth and the Moon</b>]]></caption>
+<caption><![CDATA[<b>Phases of the Moonn</b>]]></caption>
+
+
+<text><![CDATA[Earth has one natural satellite orbiting it.]]></text>
+<text><![CDATA[The tides in Earth's oceans are caused by the Moon's gravitational pull.]]></text>
+<text><![CDATA[The moon helps us in measuring the days of our calendar.]]></text>
+<text><![CDATA[The moon takes 27.3 days to orbit the Earth. This gives us the sidereal month.]]></text>
+<text><![CDATA[A lunar month is measured according to the time it takes the Moon to pass through a complete cycle of its phases.]]></text>
+<text><![CDATA[It is also known as a synodic month.]]></text>
+<text><![CDATA[A lunar month is of about 29.5 days.]]></text>
+<text><![CDATA[<B>Phases of the Moon</B>]]></text>
+
+
+ <rubric><![CDATA[<B>full moon</B>]]></rubric>
+<rubric><![CDATA[<B>waxing gibbous</B>]]></rubric>
+<rubric><![CDATA[<B>first quarter</B>]]></rubric>
+<rubric><![CDATA[<B>waxing crescent</B>]]></rubric>
+<rubric><![CDATA[<B>new moon</B>]]></rubric>
+<rubric><![CDATA[<B>waning crescent</B>]]></rubric>
+<rubric><![CDATA[<B>last quarter</B>]]></rubric>
+<rubric><![CDATA[<B>waning gibbous</B>]]></rubric>
+
+</data>
+</framexml>  

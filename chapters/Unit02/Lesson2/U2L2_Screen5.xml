@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 2: The animal world</b>]]></title>
+<title><![CDATA[<b>Invertebrates; animal cell</b>]]></title>
+
+<text><![CDATA[<B>Click the correct options.</B>]]></text>
+<text><![CDATA[<b>To which class does this animal belong?</b>]]></text>
+<question1>
+<cap><![CDATA[<b>jellyfish</b>]]></cap>
+<cap><![CDATA[<b>octopus</b>]]></cap>
+<cap><![CDATA[<b>salmon</b>]]></cap>
+<opt><![CDATA[<B>arthropod</B>]]></opt>
+<opt><![CDATA[<B>mollusc</B>]]></opt>
+<opt><![CDATA[<B>cnidarian</B>]]></opt>
+</question1>
+
+<question2>
+<cap><![CDATA[<b>octopus</b>]]></cap>
+<cap><![CDATA[<b>sea urchin</b>]]></cap>
+<cap><![CDATA[<b>starfish</b>]]></cap>
+<opt><![CDATA[<B>echinoderm</B>]]></opt>
+<opt><![CDATA[<B>mollusc</B>]]></opt>
+<opt><![CDATA[<B>cnidarian</B>]]></opt>
+</question2>
+
+<question3>
+<cap><![CDATA[<b>leech</b>]]></cap>
+<cap><![CDATA[<b>snake</b>]]></cap>
+<cap><![CDATA[<b>earthworm</b>]]></cap>
+<opt><![CDATA[<B>roundworm</B>]]></opt>
+<opt><![CDATA[<B>flatworm</B>]]></opt>
+<opt><![CDATA[<B>segmented worm</B>]]></opt>
+</question3>
+
+<question4>
+<cap><![CDATA[<b>jellyfish</b>]]></cap>
+<cap><![CDATA[<b>spider</b>]]></cap>
+<cap><![CDATA[<b>octopus</b>]]></cap>
+<opt><![CDATA[<B>mollusc</B>]]></opt>
+<opt><![CDATA[<B>sponge</B>]]></opt>
+<opt><![CDATA[<B>cnidarian </B>]]></opt>
+</question4>
+
+<question5>
+<cap><![CDATA[<b>grasshopper</b>]]></cap>
+<cap><![CDATA[<b>ant</b>]]></cap>
+<cap><![CDATA[<b>bee</b>]]></cap>
+<opt><![CDATA[<B>arachnid</B>]]></opt>
+<opt><![CDATA[<B>insect</B>]]></opt>
+<opt><![CDATA[<B>crustacean</B>]]></opt>
+</question5>
+
+<question6>
+<cap><![CDATA[<b>crab</b>]]></cap>
+<cap><![CDATA[<b>lobster</b>]]></cap>
+<cap><![CDATA[<b>octopus</b>]]></cap>
+<opt><![CDATA[<B>arachnid</B>]]></opt>
+<opt><![CDATA[<B>insect</B>]]></opt>
+<opt><![CDATA[<B>crustacean</B>]]></opt>
+</question6>
+
+<question7>
+<cap><![CDATA[<b>crab</b>]]></cap>
+<cap><![CDATA[<b>spider</b>]]></cap>
+<cap><![CDATA[<b>scorpion</b>]]></cap>
+<opt><![CDATA[<B>arachnid</B>]]></opt>
+<opt><![CDATA[<B>insect</B>]]></opt>
+<opt><![CDATA[<B>crustacean</B>]]></opt>
+</question7>
+
+<question8>
+<cap><![CDATA[<b>crab</b>]]></cap>
+<cap><![CDATA[<b>spider</b>]]></cap>
+<cap><![CDATA[<b>scorpion</b>]]></cap>
+<opt><![CDATA[<B>arachnid</B>]]></opt>
+<opt><![CDATA[<B>insect</B>]]></opt>
+<opt><![CDATA[<B>crustacean</B>]]></opt>
+</question8>
+
+<question9>
+<cap><![CDATA[<b>lobster</b>]]></cap>
+<cap><![CDATA[<b>snail</b>]]></cap>
+<cap><![CDATA[<b>scorpion</b>]]></cap>
+<opt><![CDATA[<B>mollusc</B>]]></opt>
+<opt><![CDATA[<B>sponge</B>]]></opt>
+<opt><![CDATA[<B>cnidarian</B>]]></opt>
+</question9>
+
+<question10>
+<cap><![CDATA[<b>coral</b>]]></cap>
+<cap><![CDATA[<b>sea anemone</b>]]></cap>
+<cap><![CDATA[<b>jellyfish</b>]]></cap>
+<opt><![CDATA[<B>arthropod</B>]]></opt>
+<opt><![CDATA[<B>mollusc</B>]]></opt>
+<opt><![CDATA[<B>cnidarian</B>]]></opt>
+</question10>
+
+<feedback>
+<correct><![CDATA[That's right! Good job!]]></correct>
+<wrong1><![CDATA[Oh, no! That's not correct. Try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's incorrect again.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[Hmm... I'm sure you'll do better next time.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Fantastic!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+
+</data>
+</framexml>  

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 3: The plant world</b>]]></title>
+<title><![CDATA[<b>Seeds and germination</b>]]></title>
+
+<heading><![CDATA[<b>Seeds</b>]]></heading>
+
+ <Labels><![CDATA[<b>seed coat</b>]]></Labels>
+ <Labels><![CDATA[<b>endosperm </b>]]></Labels>
+ <Labels><![CDATA[<b>cotyledon </b>]]></Labels>
+ <Labels><![CDATA[<b>embryo</b>]]></Labels>
+ <Labels><![CDATA[<b>monocot</b>]]></Labels>
+ <Labels><![CDATA[<b>dicot</b>]]></Labels>
+ <text><![CDATA[For most plants life begins with the germination of a seed.]]></text> 
+ <text><![CDATA[The outer covering of a seed is called the seed coat. The seed coat protects the embryo from external damage.]]></text>
+ <text><![CDATA[The tissue that surrounds the embryo is called the endosperm. The endosperm provides the embryo with nutrition.]]></text> 
+ <text><![CDATA[The embryo is where life starts within a seed.]]></text> 
+ <text><![CDATA[The cotyledon is the seed leaf that develops from the seed after germination.]]></text>
+ <text><![CDATA[Flowering plants either have one cotyledon or two.]]></text>  
+ <text><![CDATA[Some seeds have only one cotyledon and so are called monocots,]]></text>
+ <text><![CDATA[e.g. maize seeds]]></text>
+ <text><![CDATA[Some seeds have two cotyledons and so are called dicots,]]></text>
+ <text><![CDATA[e.g. bean seeds]]></text>
+  
+</data>
+</framexml>  

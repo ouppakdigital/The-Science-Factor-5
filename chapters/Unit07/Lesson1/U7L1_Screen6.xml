@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click on the correct option to answer each question.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Excellent score! Congratulations!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<question1>
+<text><![CDATA[<B>What type of pollution is caused by the overuse of pesticides over crops?</B>]]></text>
+<option1><![CDATA[<b>land<br>pollution</b>]]></option1>
+<option2><![CDATA[<b>air<br>pollution</b>]]></option2>
+<option3><![CDATA[<b>noise<br>pollution</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>What type of pollution is caused by heavy traffic?</B>]]></text>
+<option1><![CDATA[<b>land<br>pollution</b>]]></option1>
+<option2><![CDATA[<b>water<br>pollution</b>]]></option2>
+<option3><![CDATA[<b>noise<br>pollution</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[<B>Which of the following types of pollution is caused by chemical waste from factories?</B>]]></text>
+<option1><![CDATA[<b>water<br>pollution</b>]]></option1>
+<option2><![CDATA[<b>noise<br>pollution</b>]]></option2>
+<option3><![CDATA[<b>visual<br>pollution</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[<B>Even when we are indoors we can cause this type of pollution: ________________</B>]]></text>
+<option1><![CDATA[<b>land<br>pollution</b>]]></option1>
+<option2><![CDATA[<b>visual<br>pollution</b>]]></option2>
+<option3><![CDATA[<b>air<br>pollution</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>Which type of pollution is caused by lots of advertisement hoardings on the streets?</B>]]></text>
+<option1><![CDATA[<b>land pollution</b>]]></option1>
+<option2><![CDATA[<b>air pollution</b>]]></option2>
+<option3><![CDATA[<b>visual pollution</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question5>
+
+<question6>
+<text><![CDATA[<B>Acid rain is caused by _________ pollution.</B>]]></text>
+<option1><![CDATA[<b>land</b>]]></option1>
+<option2><![CDATA[<b>water</b>]]></option2>
+<option3><![CDATA[<b>air</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question6>
+
+
+<question7>
+<text><![CDATA[<B>By using the three 'Rs' we can help reduce _________ pollution.</B>]]></text>
+<option1><![CDATA[<b>land</b>]]></option1>
+<option2><![CDATA[<b>visual</b>]]></option2>
+<option3><![CDATA[<b>noise</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question7>
+
+<question8>
+<text><![CDATA[<B>Motor vehicles can produce two types of pollution, ________ and ________.</B>]]></text>
+<option1><![CDATA[<b>land, air</b>]]></option1>
+<option2><![CDATA[<b>noise, air</b>]]></option2>
+<option3><![CDATA[<b>land, water</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question8>
+
+<question9>
+<text><![CDATA[<B>We can suffer from serious lung diseases due to _________ pollution.</B>]]></text>
+<option1><![CDATA[<b>land</b>]]></option1>
+<option2><![CDATA[<b>water</b>]]></option2>
+<option3><![CDATA[<b>air</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question9>
+
+
+<question10>
+<text><![CDATA[<B>High blood pressure and stress can be caused by _________ pollution.</B>]]></text>
+<option1><![CDATA[<b>water</b>]]></option1>
+<option2><![CDATA[<b>air</b>]]></option2>
+<option3><![CDATA[<b>noise</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question10>
+
+</data>
+</framexml>

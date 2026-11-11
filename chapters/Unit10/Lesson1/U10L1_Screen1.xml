@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 10: Force and machines</b>]]></title>
+<title><![CDATA[<b>Force</b>]]></title>
+
+<text><![CDATA[Force is related to the mass and weight of an object.]]></text>
+<text><![CDATA[Mass and weight are two different things.]]></text>
+
+<Labels><![CDATA[<B>weight</B>]]></Labels>
+<Labels><![CDATA[<B>mass</B>]]></Labels>
+   
+</data>
+</framexml>  

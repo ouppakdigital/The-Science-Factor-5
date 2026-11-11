@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Echinoderms</B>]]></heading>
+
+<text><![CDATA[Echinoderms are sea-dwelling invertebrates. They have several arms radiating from the central body.]]></text>
+
+<lable><![CDATA[<B>starfish</B>]]></lable>
+<lable><![CDATA[<B>sea urchin</B>]]></lable>
+<lable><![CDATA[<B>sea cucumber</B>]]></lable>
+
+</data>
+</framexml>  

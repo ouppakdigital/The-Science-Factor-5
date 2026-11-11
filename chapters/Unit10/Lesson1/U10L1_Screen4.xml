@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 10: Force and machines</b>]]></title>
+<title><![CDATA[<b>Forces</b>]]></title>
+
+
+<text><![CDATA[Forces balance each other.]]></text>
+<text><![CDATA[Inertia is the property of a body which makes it stays still or in keep it in uniform motion unless an external force act upon it.]]></text>
+<text><![CDATA[When the forces acting upon an object are balanced, the object remains still.]]></text>
+<text><![CDATA[When the forces acting upon an object are imbalanced, the object starts to move.]]></text>
+
+<Labels><![CDATA[<B>coin</B>]]></Labels>
+<Labels><![CDATA[<B>gravity</B>]]></Labels>
+<Labels><![CDATA[<B>normal</B>]]></Labels>
+<Labels><![CDATA[<B>external force</B>]]></Labels>
+
+</data>
+</framexml>  

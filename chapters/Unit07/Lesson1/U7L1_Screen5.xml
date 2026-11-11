@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<rubric><![CDATA[<b>Drag the correct word from the list to complete each statement.</b>]]></rubric>
+
+<text><![CDATA[1.]]></text>
+<text><![CDATA[We can reduce ________________ pollution by using solar and wind power.]]></text>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[By using quieter ________________ we can reduce noise pollution.]]></text>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[Planting trees help to ________________ sound.]]></text>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[Biodegradable waste can ________________ naturally.]]></text>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[Non-biodegradable waste should be ________________.]]></text>
+
+<Drag><![CDATA[<B>air</B>]]></Drag>
+<Drag><![CDATA[<B>machines</B>]]></Drag>
+<Drag><![CDATA[<B>muffle</B>]]></Drag>
+<Drag><![CDATA[<B>decompose</B>]]></Drag>
+<Drag><![CDATA[<B>recycled</B>]]></Drag>
+
+
+<answer><![CDATA[<B>air</B>]]></answer>
+<answer><![CDATA[<B>machines</B>]]></answer>
+<answer><![CDATA[<B>muffle</B>]]></answer>
+<answer><![CDATA[<B>decompose</B>]]></answer>
+<answer><![CDATA[<B>recycled</B>]]></answer>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done! ]]></correct>
+<wrong1><![CDATA[Oh, no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

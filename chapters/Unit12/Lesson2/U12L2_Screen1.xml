@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 12: The solar system</b>]]></title>
+<title><![CDATA[<b>The sun and the planets</b>]]></title>
+
+<rubric><![CDATA[<b>Mercury</b>]]></rubric>
+<rubric><![CDATA[<b>Venus</b>]]></rubric>
+<rubric><![CDATA[<b>Earth</b>]]></rubric>
+<rubric><![CDATA[<b>Mars</b>]]></rubric>
+<rubric><![CDATA[<b>Jupiter</b>]]></rubric>
+<rubric><![CDATA[<b>Saturn</b>]]></rubric>
+<rubric><![CDATA[<b>Uranus </b>]]></rubric>
+<rubric><![CDATA[<b>Neptune</b>]]></rubric>
+<rubric><![CDATA[<b>Sun</b>]]></rubric>
+
+
+
+<text><![CDATA[A moon is a natural satellite that orbits a planet.]]></text>
+<text><![CDATA[Artificial satellites are man-made satellites that are sent to space to collect information. They orbit the Earth.]]></text>
+<text><![CDATA[Mercury has no moons orbiting it.]]></text>
+<text><![CDATA[Venus does not have any moon orbiting it.]]></text>
+
+
+
+</data>
+</framexml>  

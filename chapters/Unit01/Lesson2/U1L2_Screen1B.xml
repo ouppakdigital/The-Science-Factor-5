@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Skeletal system</B>]]></heading>
+
+<text><![CDATA[All the bones in a body form the skeletal system.]]></text>
+<text><![CDATA[A young child has more than three hundred bones. An adult human has two hundred and six bones.]]></text>
+<text><![CDATA[The skeleton supports the body.]]></text>
+<text><![CDATA[The skeleton also acts as a protective shield for the vital internal organs of the body.]]></text>
+<text><![CDATA[The skull protects the brain from damage.]]></text>
+<text><![CDATA[The ribcage protects the liver, lungs, and heart.]]></text>
+<text><![CDATA[The skeleton works with the muscles and tendons of the body to help a person move around.]]></text>
+<text><![CDATA[Bones are held in their respective places by short bands of tissues called ligaments.]]></text>
+<text><![CDATA[A joint is the place where two bones meet or connect.]]></text>
+<text><![CDATA[Two types of movable joints are called ball-and-socket joint and hinge joint.]]></text>
+<text><![CDATA[The joints in the hips and shoulders are called ball-and-socket joints.]]></text>
+<text><![CDATA[The joints in the elbows and knees are called hinge joints.]]></text>
+<text><![CDATA[The joints in the skull are not movable.]]></text>
+
+<lable><![CDATA[<B>kneecap</B>]]></lable>
+<lable><![CDATA[<B>thighbone</B>]]></lable>
+<lable><![CDATA[<B>ligament</B>]]></lable>
+<lable><![CDATA[<B>With skeleton</B>]]></lable>
+
+<lable><![CDATA[<B>thigh bone</B>]]></lable>
+<lable><![CDATA[<B>kneecap</B>]]></lable>
+<lable><![CDATA[<B>ligament</B>]]></lable>
+
+<lable><![CDATA[<B>ball-and-socket joint</B>]]></lable>
+<lable><![CDATA[<B>hinge joint</B>]]></lable>
+
+
+</data>
+</framexml>  

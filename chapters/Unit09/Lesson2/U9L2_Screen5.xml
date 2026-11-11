@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 9: Electricity and Magnetism</b>]]></title>
+<title><![CDATA[<b>Magnetism</b>]]></title>
+
+<rubric><![CDATA[<B>Click the correct option for each statement.</B>]]></rubric>
+
+
+
+<question1>
+<text><![CDATA[<B>Hard and smooth objects absorb most of the sound waves.</B>]]></text>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>When the same sound is heard more than once, it is called an echo.</B>]]></text>
+</question2>
+
+<question3>
+<text><![CDATA[<B>Curved and soft objects placed in halls help to create echoes and reverberations.</B>]]></text>
+</question3>
+
+<question4>
+<text><![CDATA[<B>Bats and dolphins use reverberations of sound to hunt or navigate.</B>]]></text>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>Sound waves travel more slowly in cold water than in warm water.</B>]]></text>
+</question5>
+<option><![CDATA[<b>True</b>]]></option>
+<option><![CDATA[<b>False</b>]]></option>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done! ]]></correct>
+<wrong1><![CDATA[Oh no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oh no! That's not correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

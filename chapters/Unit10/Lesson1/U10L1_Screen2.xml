@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 10: Force and machines</b>]]></title>
+<title><![CDATA[<b>Force</b>]]></title>
+
+<heading><![CDATA[<b>Freezing</b>]]></heading>
+
+ <Labels><![CDATA[<b>Lighted candle</b>]]></Labels>
+
+<text><![CDATA[Mass is the amount of matter that is contained in an object. It is measured in kilograms.]]></text>
+<text><![CDATA[Weight is the amount of gravitational force acting on an object. It is measured in newtons and is denoted by N.]]></text>
+<text><![CDATA[The mass and the weight of an object remain the same on Earth.]]></text>
+<text><![CDATA[In outer space, there is no force of gravity, so the object will have no weight at all.]]></text>
+<text><![CDATA[The mass of the object will remain the same in space as it has the same amount of matter.]]></text>
+
+<text><![CDATA[weight = 60 kg<BR>mass = 60 kg]]></text>
+<text><![CDATA[weight = 20 kg<BR>mass = 60 kg]]></text>
+<text><![CDATA[<B>Ooh, I feel so light here!</B>]]></text>
+
+<text><![CDATA[weight = 100 kg<BR>mass = 60 kg]]></text>
+<text><![CDATA[<B>Golly! I feel so heavy now.</B>]]></text>
+
+
+<Labels><![CDATA[<B>weight</B>]]></Labels>
+<Labels><![CDATA[<B>mass</B>]]></Labels>
+   
+</data>
+</framexml>  

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Muscular system</B>]]></heading>
+
+<text><![CDATA[There are more than six hundred muscles in the human body.]]></text>
+<text><![CDATA[Muscles are elastic by nature. They can contract and expand.]]></text>
+<text><![CDATA[Muscles that you can control are called voluntary muscles.]]></text>
+<text><![CDATA[Muscles that function on their own are known as involuntary muscles.]]></text>
+<text><![CDATA[Skeletal muscles are attached to your bones by fibres known as tendons.]]></text>
+<text><![CDATA[Skeletal muscles are voluntary muscles.]]></text>
+<text><![CDATA[Smooth muscles are involuntary muscles which keep your body systems going.]]></text>
+<text><![CDATA[Smooth muscles in the digestive system contract and expand to help in the digestion of food.]]></text>
+<text><![CDATA[Smooth muscles in the eyes help you to see properly by controlling the size of the pupils.]]></text>
+<text><![CDATA[Muscles in the heart are called cardiac muscles.]]></text>
+
+<lable><![CDATA[<B>cardiac muscle</B>]]></lable>
+<lable><![CDATA[<B>skeletal muscle</B>]]></lable>
+<lable><![CDATA[<B>smooth muscle</B>]]></lable>
+
+<lable><![CDATA[<B>muscle</B>]]></lable>
+<lable><![CDATA[<B>tendon</B>]]></lable>
+
+<lable><![CDATA[<B>Frontalis</B>]]></lable>
+<lable><![CDATA[<B>Pectoralis</B>]]></lable>
+<lable><![CDATA[<B>Quadriceps</B>]]></lable>
+<lable><![CDATA[<B>Tibialis anterior </B>]]></lable>
+<lable><![CDATA[<B>Biceps</B>]]></lable>
+<lable><![CDATA[<B>deltoid</B>]]></lable>
+
+<lable><![CDATA[<B>contract</B>]]></lable>
+<lable><![CDATA[<B>expand</B>]]></lable>
+
+
+</data>
+</framexml>  

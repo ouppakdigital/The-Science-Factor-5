@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Cnidarians</B>]]></heading>
+
+<text><![CDATA[Cnidarians are water-dwelling invertebrates with bag-shaped bodies.]]></text>
+<text><![CDATA[Several tentacles emerge from the bodies of cnidarians.]]></text>
+<text><![CDATA[Cnidarians have stinging cells in the tips of their tentacles which help them to catch prey.]]></text>
+
+<lable><![CDATA[<B>jellyfish</B>]]></lable>
+<lable><![CDATA[<B>sea anemone</B>]]></lable>
+<lable><![CDATA[<B>coral</B>]]></lable>
+<lable><![CDATA[<B>box jellyfish</B>]]></lable>
+
+
+<lable><![CDATA[<B>tentacles</B>]]></lable>
+
+</data>
+</framexml>  

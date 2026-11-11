@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>Arthropods</B>]]></heading>
+
+<text><![CDATA[The largest species of animals found on Earth are arthropods.]]></text>
+<text><![CDATA[Arthropods are found everywhere on Earth.]]></text>
+<text><![CDATA[Insects are the most diversified group of animals in the world.]]></text>
+
+<lable><![CDATA[<B>ant</B>]]></lable>
+<lable><![CDATA[<B>spider</B>]]></lable>
+<lable><![CDATA[<B>bee</B>]]></lable>
+<lable><![CDATA[<B>mosquito</B>]]></lable>
+<lable><![CDATA[<B>crab</B>]]></lable>
+<lable><![CDATA[<B>pitcher plant</B>]]></lable>
+
+
+<lable><![CDATA[<B>beetle</B>]]></lable>
+<lable><![CDATA[<B>ant</B>]]></lable>
+<lable><![CDATA[<B>grasshopper</B>]]></lable>
+
+<lable><![CDATA[<B>grasshopper</B>]]></lable>
+<lable><![CDATA[<B>scorpion</B>]]></lable>
+
+<lable><![CDATA[<B>crab</B>]]></lable>
+<lable><![CDATA[<B>lobster</B>]]></lable>
+
+<lable><![CDATA[<B>earth centipede</B>]]></lable>
+<lable><![CDATA[<B>stone centipede</B>]]></lable>
+
+<lable><![CDATA[<B>pill millipede</B>]]></lable>
+<lable><![CDATA[<B>spotted millipede</B>]]></lable>
+
+<lable><![CDATA[<B>head</B>]]></lable>
+<lable><![CDATA[<B>thorax</B>]]></lable>
+<lable><![CDATA[<B>abdomen</B>]]></lable>
+<lable><![CDATA[<B>antenna</B>]]></lable>
+<lable><![CDATA[<B>legs</B>]]></lable>
+<lable><![CDATA[<B>mosquito</B>]]></lable>
+
+
+<flowchart><![CDATA[<B>Arthropods</B>]]></flowchart>
+<flowchart><![CDATA[<B>Insects</B>]]></flowchart>
+<flowchart><![CDATA[<B>Arachnids</B>]]></flowchart>
+<flowchart><![CDATA[<B>Crustaceans</B>]]></flowchart>
+<flowchart><![CDATA[<B>Centipedes</B>]]></flowchart>
+<flowchart><![CDATA[<B>Millipedes</B>]]></flowchart>
+
+</data>
+</framexml>

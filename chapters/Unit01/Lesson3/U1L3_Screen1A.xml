@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>The digestive system</B>]]></heading>
+
+<text><![CDATA[The role of the digestive system is to break down food into nutrients that the body can use. ]]></text>
+<text><![CDATA[The digestive system also helps in getting rid of the undigested part of the food from the body.]]></text>
+<text><![CDATA[The digestive system contains an 8m long tract called the digestive tract.]]></text>
+<text><![CDATA[The saliva in the mouth mixes with food and starts to break it down so that it becomes easier to swallow it.]]></text>
+<text><![CDATA[The swallowed food then travels down a long tube called the oesophagus, to the stomach.]]></text>
+<text><![CDATA[The oesophagus is about 25 cm long in a human adult.]]></text>
+<text><![CDATA[The gastric juices in the stomach break the food down further into a paste.]]></text>
+<text><![CDATA[The small intestine is the longest part of the digestive system. It is about 5 metres long.]]></text>
+<text><![CDATA[The nourishing part of the food goes into the bloodstream from the small intestine and is transported all over the body.]]></text>
+<text><![CDATA[The large intestine removes excess water and salts from the undigested food.]]></text>
+<text><![CDATA[The remaining part of the undigested food travels through the rectum and comes out of the body through the anus.]]></text>
+
+<lable><![CDATA[<B>digestive tract</B>]]></lable>
+<lable><![CDATA[<B>oesophagus</B>]]></lable>
+<lable><![CDATA[<B>stomach</B>]]></lable>
+<lable><![CDATA[<B>small intestine</B>]]></lable>
+<lable><![CDATA[<B>large intestine</B>]]></lable>
+<lable><![CDATA[<B>rectum</B>]]></lable>
+<lable><![CDATA[<B>anus</B>]]></lable>
+
+</data>
+</framexml>  

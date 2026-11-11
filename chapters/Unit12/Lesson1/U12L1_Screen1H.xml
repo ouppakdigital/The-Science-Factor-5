@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 12: The solar system</b>]]></title>
+<title><![CDATA[<b>The sun and the planets</b>]]></title>
+
+<caption><![CDATA[<b>Uranus fact file</b>]]></caption>
+<rubric><![CDATA[length of day]]></rubric>
+<rubric><![CDATA[length of year]]></rubric>
+<rubric><![CDATA[diameter]]></rubric>
+<rubric><![CDATA[surface temperature]]></rubric>
+<rubric><![CDATA[distance from Earth]]></rubric>
+<rubric><![CDATA[distance from Sun]]></rubric>
+
+
+<text><![CDATA[Uranus is the seventh planet from the Sun.]]></text>
+<text><![CDATA[Uranus was discovered in 1781 by William Herschel; a European astronomer.]]></text>
+<text><![CDATA[Uranus is the only planet that rotates on its axis sideways.]]></text>
+<text><![CDATA[Uranus has the coldest surface temperature among all the planets of the solar system.]]></text>
+<text><![CDATA[<B>Length of day:</B><br>17 hours, 8 minutes]]></text>
+<text><![CDATA[<B>Length of year:</B> 84 Earth years]]></text>
+<text><![CDATA[<B>Diameter:</B> 51,200 km]]></text>
+<text><![CDATA[<B>Surface temperature:</B> -220&#176;C]]></text>
+<text><![CDATA[<B>Distance from Earth:</B> 2.57 billion km]]></text>
+<text><![CDATA[<B>Distance from Sun:</B> 2.875 billion km]]></text>
+
+
+
+</data>
+</framexml>  

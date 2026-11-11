@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<heading><![CDATA[<B>The</B>]]></heading>
+
+<text><![CDATA[A cell is the basic unit of a living being.]]></text>
+<text><![CDATA[The nerve cells in the brain send and receive messages.]]></text>
+<text><![CDATA[The blood cells carry oxygen around the body.]]></text>
+<text><![CDATA[The nucleus is the control centre of the cell which controls the cell's growth and reproduction.]]></text>
+<text><![CDATA[The cytoplasm moves materials around the cell and also helps in dissolving waste.]]></text>
+<text><![CDATA[The cell membrane acts as a protective wall for the cell. It separates one cell from another.]]></text>
+<text><![CDATA[Vacuoles are fluid sacs that store food and minerals for the cell.]]></text>
+
+<lable><![CDATA[<B>nerve cell</B>]]></lable>
+<lable><![CDATA[<B>wrong diagram</B>]]></lable>
+<lable><![CDATA[<B>blood cells</B>]]></lable>
+<lable><![CDATA[<B>nucleus</B>]]></lable>
+<lable><![CDATA[<B>cytoplasm</B>]]></lable>
+<lable><![CDATA[<B>cell membrane</B>]]></lable>
+<lable><![CDATA[<B>vacuoles</B>]]></lable>
+<lable><![CDATA[<B>Animal cell</B>]]></lable>
+
+</data>
+</framexml>  
